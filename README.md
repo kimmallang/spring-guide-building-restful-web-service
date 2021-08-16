@@ -1,6 +1,4 @@
-# spring-guide-building-restful-web-service
-
-### 이 가이드는 Spring을 사용하여 "Hello, World" RESTful 웹 서비스를 만드는 과정을 안내합니다.
+## Spring boot를 사용해서 RESTful 웹 서비스 만들기
 
 <br />
 
